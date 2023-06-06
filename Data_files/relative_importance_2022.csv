@@ -1,0 +1,28 @@
+﻿Item,Subcategory,Category,Relative importance
+Bakery,Food at home,Food,1.118
+Meats. poultry. fish. and eggs,Food at home,Food,1.898
+Dairy,Food at home,Food,0.811
+Fruits/veggies,Food at home,Food,1.431
+Beverages,Food at home,Food,0.981
+Other foods,Food at home,Food,2.285
+Food away from home,Others,Food,5.257
+Fuel oil,Commodities,Energy,0.183
+Motor fuel,Commodities,Energy,4.052
+Electricity,Services,Energy,2.610
+Gas services,Services,Energy,0.950
+New vehicles,Private,Transportation,4.068
+Used vehicles,Private,Transportation,3.624
+Leased vehicles,Private,Transportation,0.728
+Vehicle repair,Public,Transportation,1.087
+Vehicle insurance,Public,Transportation,2.532
+Airline fares,Public,Transportation,0.630
+Medical services,Services,Medical care,6.788
+Physicians' services,Services,Medical care,1.807
+Hospital services,Services,Medical care,2.123
+Medical commodities,Commodities,Medical care,1.472
+Alcoholic beverages,Others,Less F&E,0.877
+Smoking products,Others,Less F&E,0.520
+Apparel,Others,Less F&E,2.409
+Other Goods,Others,Less F&E,17.482
+Rent primary residence,Housing,Shelter,7.447
+Rent other residences,Housing,Shelter,24.235
